@@ -28,3 +28,8 @@ The courses below are on udacity.com and I've tried to organize them in an order
 
 * [google maps api's](https://www.udacity.com/course/google-maps-apis--ud864)
 * [intro to progressive web apps](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811)
+* [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+* [Version Control With Git](https://www.udacity.com/course/version-control-with-git--ud123)
+* [GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+* [Writing ReadMe's](https://www.udacity.com/course/writing-readmes--ud777)
+* [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
